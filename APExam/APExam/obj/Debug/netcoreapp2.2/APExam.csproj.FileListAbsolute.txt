@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\APExam\APExam\bin\Debug\netcoreapp2.2\APExam.deps.json
+C:\Users\Admin\RiderProjects\APExam\APExam\bin\Debug\netcoreapp2.2\APExam.runtimeconfig.json
+C:\Users\Admin\RiderProjects\APExam\APExam\bin\Debug\netcoreapp2.2\APExam.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\APExam\APExam\bin\Debug\netcoreapp2.2\APExam.dll
+C:\Users\Admin\RiderProjects\APExam\APExam\bin\Debug\netcoreapp2.2\APExam.pdb
+C:\Users\Admin\RiderProjects\APExam\APExam\obj\Debug\netcoreapp2.2\APExam.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\APExam\APExam\obj\Debug\netcoreapp2.2\APExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\APExam\APExam\obj\Debug\netcoreapp2.2\APExam.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\APExam\APExam\obj\Debug\netcoreapp2.2\APExam.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\APExam\APExam\obj\Debug\netcoreapp2.2\APExam.dll
+C:\Users\Admin\RiderProjects\APExam\APExam\obj\Debug\netcoreapp2.2\APExam.pdb
